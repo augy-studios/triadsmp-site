@@ -5,14 +5,9 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Triad SMP is a Minecraft server by Dreamy.
 
-[GitHub](https://github.com/coffeebank/moonrise)
-
-
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+[Discord Server](https://discord.gg/96J8mH6Mr7)
 
 
 # Privacy Policy
