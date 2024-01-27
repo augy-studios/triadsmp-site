@@ -1,9 +1,9 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://triadsmp.xyz"
+url: "https://www.triadsmp.xyz"
 baseurl: "/"
-siteIcon: /media/empty-icon.png
+siteIcon: /media/season-4.png
 siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: false
@@ -11,7 +11,7 @@ showinSearchEngines: false
 
 
 # Set basic server info
-serverName: Triad SMP
+serverName: Triad SMP (Season 4)
 serverDescription: A Minecraft server by Dreamy!
 serverIP: play.triadsmp.xyz
 useBedrockForOnlineStatus: false
